@@ -14,4 +14,4 @@ Quick start:
 (alternatively, setup $JBOSS_HOME and deploy using mvn jboss:hard-deploy)
 6) open browser: http://localhost:8080/javaee6-as7/faces/scaffold/room/view.xhtml
 
-This runs fine, in JBoss AS6 also.
+This runs fine, within JBoss AS6 also.
