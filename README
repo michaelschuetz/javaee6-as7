@@ -15,3 +15,10 @@ Quick start:
 6) open browser: http://localhost:8080/javaee6-as7/faces/scaffold/room/view.xhtml
 
 This runs fine, within JBoss AS6 also.
+
+
+hint
+####
+There is a workaround (see pom.xml), due to current AS7 issue with classloading:
+* https://issues.jboss.org/browse/SEAMFORGE-156
+* https://issues.jboss.org/browse/AS7-708
